@@ -1,0 +1,31 @@
+Sat Mar 16 10:39:30 BRT 2013 : Apache Derby Network Server - 10.8.1.2 - (1095077) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Sat Mar 16 10:39:30 BRT 2013:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077): instance a816c00e-013d-736d-345c-ffff99625b12 
+on database directory /Volumes/DADOS/HOME/douglas/NetBeansProjects/ProvaPSW1/db/Vendas  with class loader sun.misc.Launcher$AppClassLoader@2cd9799d 
+Loaded from file:/Applications/NetBeans/glassfish-3.1.2.2/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_17-b02
+user.dir=/Applications/NetBeans/glassfish-3.1.2.2/javadb
+derby.system.home=/Volumes/DADOS/HOME/douglas/NetBeansProjects/ProvaPSW1/db
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Mar 16 10:39:31 BRT 2013:
+Shutting down instance a816c00e-013d-736d-345c-ffff99625b12 on database directory /Volumes/DADOS/HOME/douglas/NetBeansProjects/ProvaPSW1/db/Vendas with class loader sun.misc.Launcher$AppClassLoader@2cd9799d 
+Sat Mar 16 10:39:31 BRT 2013 Thread[DRDAConnThread_4,5,main] (DATABASE = Vendas), (DRDAID = {2}), Database 'Vendas' shutdown.
+----------------------------------------------------------------
+Sat Mar 16 10:39:39 BRT 2013:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077): instance 6c44409f-013d-736d-345c-ffff99625b12 
+on database directory /Volumes/DADOS/HOME/douglas/NetBeansProjects/ProvaPSW1/db/Vendas  with class loader sun.misc.Launcher$AppClassLoader@2cd9799d 
+Loaded from file:/Applications/NetBeans/glassfish-3.1.2.2/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_17-b02
+user.dir=/Applications/NetBeans/glassfish-3.1.2.2/javadb
+derby.system.home=/Volumes/DADOS/HOME/douglas/NetBeansProjects/ProvaPSW1/db
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Mar 16 12:58:15 BRT 2013: Shutting down Derby engine
+----------------------------------------------------------------
+Sat Mar 16 12:58:15 BRT 2013:
+Shutting down instance 6c44409f-013d-736d-345c-ffff99625b12 on database directory /Volumes/DADOS/HOME/douglas/NetBeansProjects/ProvaPSW1/db/Vendas with class loader sun.misc.Launcher$AppClassLoader@2cd9799d 
+----------------------------------------------------------------
